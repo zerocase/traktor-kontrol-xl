@@ -131,3 +131,4 @@ There are a few features which are still missing and some aren't fully refined, 
 Known missing features:
 - Headphone Monitor Cue Control
 - Easier Effects navigation
+- More efficent Song Browser navigation
