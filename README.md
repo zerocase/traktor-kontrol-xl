@@ -9,7 +9,7 @@ With this mapping the Launch Control XL is transformed into a capable, compact a
 
 To download this mapping click on the download button below.
 
-[![DownloadScaled](https://user-images.githubusercontent.com/32014360/226226261-7e20e850-6fde-4d39-bf4d-8fc2ef73314c.png)](https://github.com/zerocase/traktor-kontrol-xl/releases/download/v1.0.1/TraktorKontrolXL.tsi)
+[![DownloadScaled](https://user-images.githubusercontent.com/32014360/226226261-7e20e850-6fde-4d39-bf4d-8fc2ef73314c.png)](https://github.com/zerocase/traktor-kontrol-xl/releases/download/v1.0.1/TraktorControlXL.tsi))
 
 After downloading follow these steps:
 
